@@ -1,1 +1,1 @@
-# luisBindingActionsBotOnly
+# luisBindingActions
